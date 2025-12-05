@@ -1,5 +1,3 @@
-# Rise of Cyrus
-
 Welcome to the Rise of Cyrus project!
 
 This is a passionate solo indie game development effort inspired by the remarkable legacy of Cyrus the Great and the rich history of the Persian Empire. The goal is to create an immersive and engaging gaming experience that brings this fascinating era to life.
